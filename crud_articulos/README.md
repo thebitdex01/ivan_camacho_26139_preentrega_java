@@ -126,28 +126,6 @@ Objetos Articulo en memoria RAM
 
 ---
 
-# Ejecución
-
-Abrir:
-
-```text
-App.java
-```
-
-Ejecutar:
-
-```text
-Run Java
-```
-
-o:
-
-```text
-F5
-```
-
----
-
 # Tecnologías
 
 - Java 21
